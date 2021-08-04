@@ -5,3 +5,4 @@ do [curso em video](https://www.cursoemvideo.com) do professor [gustavo guanabar
 
 ##Lista de exercícios
 
+001. Criar um programa que escreva Olá Mundo na tela
