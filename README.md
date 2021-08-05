@@ -1,3 +1,3 @@
 # Exercices to practice programming 
 
-avaliable version: [pt-BR](tree/pt)
+avaliable version: [pt-BR](../../tree/pt)
