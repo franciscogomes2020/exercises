@@ -6,3 +6,4 @@ do [curso em video](https://www.cursoemvideo.com) do professor [gustavo guanabar
 ## Lista de exercícios
 
 001. Criar um programa que escreva Olá Mundo na tela
+002. Faça um programa que leia o nome de uma pessoa e mostre uma messagem de boas-vindas
