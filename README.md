@@ -7,3 +7,4 @@ do [curso em video](https://www.cursoemvideo.com) do professor [gustavo guanabar
 
 001. Criar um programa que escreva Olá Mundo na tela
 002. Faça um programa que leia o nome de uma pessoa e mostre uma messagem de boas-vindas
+003. Crie um programa que  leia dois números e mostre a soma entre eles
