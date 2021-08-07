@@ -2,7 +2,7 @@
 
 avaliable version: [pt-BR](../../tree/pt)
 
-## Folders struct in this directory
+## Folders struct in this Repository
 
 - idiom
    - exercise numbers
@@ -10,6 +10,9 @@ avaliable version: [pt-BR](../../tree/pt)
 
 ### Example
 
-- en
-   - 001
-      - python
+```
+exercises
+└───en
+    └───001
+        └───python
+```
