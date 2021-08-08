@@ -1,5 +1,5 @@
-# Crie um programa que  leia dois números e mostre a soma entre eles
+# Create a program that reads two numbers from the keyboard and displays the sum between them on the screen.
 
-[![video do Exercício](https://img.youtube.com/vi/PB254Cfjlyk/maxresdefault.jpg)](https://youtu.be/PB254Cfjlyk)
+[![Video of the exercise](https://img.youtube.com/vi/PB254Cfjlyk/maxresdefault.jpg)](https://youtu.be/PB254Cfjlyk)
 
-[Lista de exercícios](../../../tree/pt)
+[List of exercises](..)
