@@ -5,7 +5,7 @@ from [curso em video](https://www.cursoemvideo.com) by professor [gustavo guanab
 
 ## List of Exercises
 
-001. [Create a program that writes "Hello World!" on the scream.](001)
+001. [Create a program that writes "Hello World!" on the screen.](001)
 002. [Make a program that reads a person's name and displays a welcome message on the screen.](002)
 003. [Create a program that reads two numbers from the keyboard and displas the sum between them on the screen.](003)
 004. [Make a program that reads something from the keyboard and displays its primitive type and all possible infomation about it](004)
