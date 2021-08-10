@@ -14,3 +14,8 @@ exercises
     └───001
         └───python
 ```
+
+## Go to
+
+- [List of Programming Exercises](en)
+- [Lista de Exercícios de Programação](pt)
