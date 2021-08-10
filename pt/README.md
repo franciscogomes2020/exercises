@@ -20,6 +20,7 @@ do [curso em video](https://www.cursoemvideo.com) do professor [gustavo guanabar
 013. [Faça um algoritimo que leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento.][013]
 014. [Escreva um programa que converta uma temperatura digitando em graus Celsius e converta para graus Fahrenheit.][014]
 015. [Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por Km rodado.][015]
+016. [Crie um programa que leia um número Real qualquer pelo teclado e mostre na tela a sua porção Inteira.][016]
 
 
 [001]: ../../tree/pt/001
