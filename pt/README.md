@@ -18,6 +18,7 @@ do [curso em video](https://www.cursoemvideo.com) do professor [gustavo guanabar
 011. [Faça um programa que leia a largura e a autura de uma parede em metros. calcule a sua área e a quantidade de tinta necessária para pintá-la. sabendo que cada litro de tinta, pinta uma área de 2m².][011]
 012. [Faça um algoritimo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.][012]
 013. [Faça um algoritimo que leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento.][013]
+014. [Escreva um programa que converta uma temperatura digitando em graus Celsius e converta para graus Fahrenheit.][014]
 
 
 [001]: ../../tree/pt/001
