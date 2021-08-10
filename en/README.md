@@ -18,4 +18,4 @@ from [curso em video](https://www.cursoemvideo.com) by professor [gustavo guanab
 011. [Write a program that reads the width and height of a wall in meters. Calculate its area and the amount of paint needed to paint it. Knowing that each liter of paint paints an area of 2m².](011)
 012. [Make an algorithm that reads the price of a product and displays its new price, with 5% off.](012)
 013. [Make an algorithm that reads a employee's salary and displays their new salary with 15% increase.](013)
-
+014. [Write a program that converts a temperature, by typing in degrees Celsius and converts to degrees Fahrenheit.](014)
