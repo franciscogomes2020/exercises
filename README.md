@@ -1,11 +1,9 @@
 # Exercices to practice programming 
 
-avaliable version: [pt-BR](../../tree/pt)
-
-## Folders struct in this Repository
+## Folder structure in this repository
 
 - idiom
-   - exercise numbers
+   - number of the exercise
       - example in a language
 
 ### Example
