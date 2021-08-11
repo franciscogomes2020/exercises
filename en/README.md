@@ -20,3 +20,4 @@ from [curso em video](https://www.cursoemvideo.com) by professor [gustavo guanab
 013. [Make an algorithm that reads a employee's salary and displays their new salary with 15% increase.](013)
 014. [Write a program that converts a temperature, by typing in degrees Celsius and converts to degrees Fahrenheit.](014)
 015. [Write a program that asks how many kilometers a rental car has traveled and how many days it has been rented. Calculate the price to pay, knowing that the car costs $60 per day and $0.15 per mk driven.](015)
+016. [Create a program that reads any Real number from the keyboard and displays its Integer portion on the screen.](016)
