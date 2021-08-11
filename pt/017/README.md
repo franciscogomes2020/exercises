@@ -4,18 +4,15 @@ Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente 
 
 ## Exemplos
 
-- sem exemplos de desse execicio em pt ainda, mas você pode ver a versão en desse [exercício 017 em python](../en/017/python) na versão em inglês
+- Este branch é só para os enunciados você pode ver se tem exemplos desse exercício no branch [main](../../../../tree/main) nas versôes em [portugês](../../../../tree/main/pt) do [exercício 017](../../../../tree/main/pt/017) ou na versão em [inglês](../../../../tree/main/en) do [exercise 017](../../../../tree/main/en/017)
 
 ## Próximo 
 
-- [Exercicio 016](../016)
-- **Exercicio 016**
-- [Exercicio 017](../017)
-
-## Lista de todos os exercicios
-
+- [Exercícios 016](../016)
+- **Exercícios 017**
+- [Exercícios 018](../018)
 - [Lista de exercícios](..)
 
 ## Video do @gustavoguanabara desse exercício
 
-[![video do Exercício](https://img.youtube.com/vi/-iSbDpl5Jhw/maxresdefault.jpg)](https://youtu.be/-iSbDpl5Jhw)
+[![video do Exercício](https://img.youtube.com/vi/vmPW9iWsYkY/maxresdefault.jpg)](https://youtu.be/vmPW9iWsYkY)
