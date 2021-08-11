@@ -1,0 +1,82 @@
+{
+		{
+				"id" : 001
+				"pt" : "Criar um programa que escreva Olá Mundo na tela",
+				"en" : "Create a program that writes \"Hello World!\" on the screen.",
+		},
+		{
+				"id" : 002
+				"pt" : "Faça um programa que leia o nome de uma pessoa e mostre uma messagem de boas-vindas",
+				"en" : "Make a program that reads a person's name and displays a welcome message on the screen.",
+		},
+		{
+				"id" : 003
+				"pt" : "Crie um programa que leia dois números e mostre a soma entre eles",
+				"en" : "Create a program that reads two numbers from the keyboard and displas the sum between them on the screen.",
+		},
+		{
+				"id" : 004
+				"pt" : "Faça um programa que leia algo pelo tlecado e mostre na tela o seu tipo primitivo e todas as informações possiveis sobre ele",
+				"en" : "Make a program that reads something from the keyboard and displays its primitive type and all possible infomation about it",
+		},
+		{
+				"id" : 005
+				"pt" : "Faça um programa que leia um número inteiro e mostre na tela seu sucessor e seu antecessor.",
+				"en" : "Make a program that reads an integer and displays its successor and predecessor on the screen.",
+		},
+		{
+				"id" : 006
+				"pt" : "Crie um algoritimo que leia um número e mostre o seu dobro, tripo e raiz quadrada.",
+				"en" : "Create an algorithm that reads a number and displays its double, triple and square root.",
+		},
+		{
+				"id" : 007
+				"pt" : "Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.",
+				"en" : "Develop a program that reads a student's two grades, calculates and display its average.",
+		},
+		{
+				"id" : 008
+				"pt" : "Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milimetros.",
+				"en" : "Write a program that reads a value in meters and displays it coverted to centimeters and milimeters",
+		},
+		{
+				"id" : 009
+				"pt" : "Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.",
+				"en" : "Make a program that reads any integer and displays its times tables on the screen.",
+		},
+		{
+				"id" : 010
+				"pt" : "Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos Dólares ela pode comprar. Considere US$1.00 = R$3.27",
+				"en" : "Create a program that reads how much money a person has in their wallet and displays how much Reais they can buy. Consider U$1.00 = R$3.27",
+		},
+		{
+				"id" : 011
+				"pt" : "Faça um programa que leia a largura e a autura de uma parede em metros. calcule a sua área e a quantidade de tinta necessária para pintá-la. sabendo que cada litro de tinta, pinta uma área de 2m².",
+				"en" : "Write a program that reads the width and height of a wall in meters. Calculate its area and the amount of paint needed to paint it. Knowing that each liter of paint paints an area of 2m².",
+		},
+		{
+				"id" : 012
+				"pt" : "Faça um algoritimo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.",
+				"en" : "Make an algorithm that reads the price of a product and displays its new price, with 5% off.",
+		},
+		{
+				"id" : 013
+				"pt" : "Faça um algoritimo que leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento.",
+				"en" : "Make an algorithm that reads a employee's salary and displays their new salary with 15% increase.",
+		},
+		{
+				"id" : 014
+				"pt" : "Escreva um programa que converta uma temperatura digitando em graus Celsius e converta para graus Fahrenheit.",
+				"en" : "Write a program that converts a temperature, by typing in degrees Celsius and converts to degrees Fahrenheit.",
+		},
+		{
+				"id" : 015
+				"pt" : "Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por Km rodado.",
+				"en" : "Write a program that asks how many kilometers a rental car has traveled and how many days it has been rented. Calculate the price to pay, knowing that the car costs $60 per day and $0.15 per mk driven.",
+		},
+		{
+				"id" : 016
+				"pt" : "Crie um programa que leia um número Real qualquer pelo teclado e mostre na tela a sua porção Inteira.",
+				"en" : "Create a program that reads any Real number from the keyboard and displays its Integer portion on the screen.",
+		},
+}
