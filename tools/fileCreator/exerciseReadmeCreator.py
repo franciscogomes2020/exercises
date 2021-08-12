@@ -59,3 +59,13 @@ enReadme += sectionNext('Exercise')
 
 writeExerciseReadme('en',enReadme)
 
+
+ptReadme  = title1('Exercício')
+ptReadme += description(exercise['pt'])
+ptReadme += title2('Exemplos')
+ptReadme += listExamples('Nenhum exemplo ainda')
+ptReadme += title3('Próximo')
+ptReadme += sectionNext('Exercício')
+
+writeExerciseReadme('pt',ptReadme)
+
