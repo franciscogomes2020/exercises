@@ -1,11 +1,11 @@
 import json
 
-file = open('../data.json')
+def jsonFileToData(path):
+    file = open(path)
+    data = json.load(file)
+    file.close()
+    return data
 
-data = json.load(file)
-
-file.close()
-
-for object in data:
-    print(object['id'])
-
+# how to use
+# data = jsonFileToData('../data.json')
+# print( data )
