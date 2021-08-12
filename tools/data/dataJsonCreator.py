@@ -21,5 +21,5 @@ data += jsonFileToData('playlist-page3.json')['items']
 data = list(map(dataJsonMap, data))
 
 with open('data.json','w') as outfile:
-    json.dump(data, outfile, ensure_ascii=False)
+    json.dump(data, outfile, indent=1, ensure_ascii=False)
 
