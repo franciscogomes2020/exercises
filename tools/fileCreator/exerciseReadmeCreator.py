@@ -37,7 +37,8 @@ def sectionNext(string):
 
     return temp
 
-
+def linkToExerciseList(string):
+    return f'- [{string}](..)\n' 
 
 def writeExerciseReadme(idiom,content):
     dirPath = root + idiom + '/' + exercise['id'] + '/'
@@ -56,6 +57,8 @@ enReadme += title2('Examples')
 enReadme += listExamples('No example yet')
 enReadme += title3('Next')
 enReadme += sectionNext('Exercise')
+enReadme += linkToExerciseList('List of Exercises')
+
 
 writeExerciseReadme('en',enReadme)
 
@@ -66,6 +69,7 @@ ptReadme += title2('Exemplos')
 ptReadme += listExamples('Nenhum exemplo ainda')
 ptReadme += title3('Próximo')
 ptReadme += sectionNext('Exercício')
+ptReadme += linkToExerciseList('Lista de Exercícios')
 
 writeExerciseReadme('pt',ptReadme)
 
