@@ -5,14 +5,12 @@ index = int( input(' Which is the number of the exercise that you want to create
 index = index -1
 
 root     = '../../'
-jsonFile = root + 'tools/data.json'
+jsonFile = root + 'tools/data/data.json'
 data = jsonFileToData( jsonFile )
 exercise = data[index]
 
 def title1(string):
-    return f'# {string} { exercise["id"] }\n\n'
-def description(string):
-    return f'{string}\n\n'
+    return f'# {string}\n\n'
 
 def title2(string):
     return f'## {string}\n\n'
@@ -26,22 +24,25 @@ def title3(string):
 def sectionNext(string):
     temp = ''
     if index > 0:
-        number = data[ index-1 ]["id"]	
+        number = data[ index-1 ]["number"]	
         temp = f'- [{string} {number}]({number})\n' 
 
-    number = data[ index ]["id"]	
+    number = data[ index ]["number"]	
     temp += f'- **{string} {number}**\n' 
 
-    number = data[ index + 1 ]["id"]	
+    number = data[ index + 1 ]["number"]	
     temp +=  f'- [{string} {number}]({number})\n' 
 
     return temp
 
 def linkToExerciseList(string):
-    return f'- [{string}](..)\n' 
+    return f'- [{string}](..)\n\n' 
+
+def thumbnail(string):
+    return f'[![{string}](https://img.youtube.com/vi/{exercise["videoId"]}/maxresdefault.jpg)](https://youtu.be/{exercise["videoId"]})'
 
 def writeExerciseReadme(idiom,content):
-    dirPath = root + idiom + '/' + exercise['id'] + '/'
+    dirPath = root + idiom + '/' + exercise["number"] + '/'
     readmePath = dirPath + 'README.md'
     touch(dirPath)
     file = open( readmePath, 'w')
@@ -51,25 +52,13 @@ def writeExerciseReadme(idiom,content):
     print(f'Was wrrite on file {readmePath} :')
     print(content)
 
-enReadme  = title1('Exercise')
-enReadme += description(exercise['en'])
-enReadme += title2('Examples')
-enReadme += listExamples('No example yet')
-enReadme += title3('Next')
-enReadme += sectionNext('Exercise')
-enReadme += linkToExerciseList('List of Exercises')
-
-
-writeExerciseReadme('en',enReadme)
-
-
-ptReadme  = title1('Exercício')
-ptReadme += description(exercise['pt'])
+ptReadme  = title1(exercise['pt'])
 ptReadme += title2('Exemplos')
 ptReadme += listExamples('Nenhum exemplo ainda')
 ptReadme += title3('Próximo')
 ptReadme += sectionNext('Exercício')
 ptReadme += linkToExerciseList('Lista de Exercícios')
+ptReadme += title2('Video do @gustavoguanabara desse exercício')
+ptReadme += thumbnail('Video do exercício')
 
 writeExerciseReadme('pt',ptReadme)
-
