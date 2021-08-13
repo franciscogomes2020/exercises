@@ -1,9 +1,9 @@
 [
  {
-  "number": "no PyCharm e deixar tudo preparado para receber os exercícios da série, que vão utilizar o mesmo projeto.\n\nVeja o curso completo de P",
+  "number": "001",
   "videoId": "nIHq1MtJaKs",
   "description": "Nesse vídeo, mostraremos como criar um projeto Python no PyCharm e deixar tudo preparado para receber os exercícios da série, que vão utilizar o mesmo projeto.\n\nVeja o curso completo de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nEDUCANDUS: http://www.sistemaeducandus.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
-  "pt": "Nesse vídeo, mostraremos como criar um projeto Python no PyCharm e deixar tudo preparado para receber os exercícios da série, que vão utilizar o mesmo projeto."
+  "pt" : "Criar um programa que escreva \"Olá Mundo\" na tela."
  },
  {
   "number": "002",
@@ -28,12 +28,6 @@
   "videoId": "664e0G_S9nU",
   "description": "Exercício Python 005: Faça um programa que leia um número Inteiro e mostre na tela o seu sucessor e seu antecessor.\n\nVeja o curso completo de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
   "pt": "Faça um programa que leia um número Inteiro e mostre na tela o seu sucessor e seu antecessor."
- },
- {
-  "number": "O Estudonauta é um projeto de Educação do Prof. Gustavo Guanabara, que já conta com centenas de aulas disponíveis e cursos com certificado",
-  "videoId": "U_A2kwUfmlw",
-  "description": "O Estudonauta é um projeto de Educação do Prof. Gustavo Guanabara, que já conta com centenas de aulas disponíveis e cursos com certificado:\n\n- Fundamentos de Programação com Portugol Studio\n- Linguagem C\n- Linguagem C#\n- Linguagem Kotlin\n- Integração PHP + MySQL\n- Produção de Vídeos\n\nQuer experimentar? Então torne-se um Gafanhoto BETA TESTER do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\n\nLinks importantes\nSeja um Beta Tester: http://cursoemvideo.com/apoie\nSite: http://www.estudonauta.com\nYouTube: http://www.youtube.com/estudonautacursos\nInstagram: http://www.instagram.com/estudonauta",
-  "pt": "O Estudonauta é um projeto de Educação do Prof. Gustavo Guanabara, que já conta com centenas de aulas disponíveis e cursos com certificado:"
  },
  {
   "number": "006",
