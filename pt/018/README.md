@@ -6,11 +6,11 @@ Nenhum exemplo ainda
 
 ## Próximo
 
-- [Exercício 017](017)
+- [Exercício 017](../017)
 - **Exercício 018**
-- [Exercício 019](019)
+- [Exercício 019](../019)
 - [Lista de Exercícios](..)
 
-## Video do @gustavoguanabara desse exercício
+## Video do [@gustavoguanabara](https://github.com/gustavoguanabara) desse exercício
 
 [![Video do exercício](https://img.youtube.com/vi/9GvsphwW26k/maxresdefault.jpg)](https://youtu.be/9GvsphwW26k)
