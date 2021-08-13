@@ -25,13 +25,13 @@ def sectionNext(string):
     temp = ''
     if index > 0:
         number = data[ index-1 ]["number"]	
-        temp = f'- [{string} {number}]({number})\n' 
+        temp = f'- [{string} {number}](../{number})\n'
 
     number = data[ index ]["number"]	
     temp += f'- **{string} {number}**\n' 
 
     number = data[ index + 1 ]["number"]	
-    temp +=  f'- [{string} {number}]({number})\n' 
+    temp +=  f'- [{string} {number}](../{number})\n'
 
     return temp
 
@@ -58,7 +58,7 @@ ptReadme += listExamples('Nenhum exemplo ainda')
 ptReadme += title3('Próximo')
 ptReadme += sectionNext('Exercício')
 ptReadme += linkToExerciseList('Lista de Exercícios')
-ptReadme += title2('Video do @gustavoguanabara desse exercício')
+ptReadme += title2('Video do [@gustavoguanabara](https://github.com/gustavoguanabara) desse exercício')
 ptReadme += thumbnail('Video do exercício')
 
 writeExerciseReadme('pt',ptReadme)
