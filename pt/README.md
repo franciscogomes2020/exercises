@@ -21,7 +21,7 @@ do [curso em video](https://www.cursoemvideo.com) do professor [gustavo guanabar
 014. [Escreva um programa que converta uma temperatura digitando em graus Celsius e converta para graus Fahrenheit.][014]
 015. [Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por Km rodado.][015]
 016. [Crie um programa que leia um número Real qualquer pelo teclado e mostre na tela a sua porção Inteira.][016]
-
+017. [Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo. Calcule e mostre o comprimento da hipotenusa.][017]
 
 [001]: ../../tree/pt/001
 [002]: ../../tree/pt/002
