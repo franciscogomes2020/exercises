@@ -1,0 +1,2362 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "E3w_yvJHxos4y5qYslpzeUcp4DU",
+  "nextPageToken": "CGQQAA",
+  "prevPageToken": "CDIQAQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bO_toi8zeS-LA3RDXZ2pK5K0Hf4",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS5ENjI1QUI0MDI5NEQzODFE",
+      "snippet": {
+        "publishedAt": "2017-11-06T10:28:42Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #050 - Soma dos pares",
+        "description": "Exercício Python 050: Desenvolva um programa que leia seis números inteiros e mostre a soma apenas daqueles que forem pares. Se o valor digitado for ímpar, desconsidere-o.\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rJaBLOW57Jg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rJaBLOW57Jg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rJaBLOW57Jg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rJaBLOW57Jg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rJaBLOW57Jg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 50,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rJaBLOW57Jg"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ejAtrwg868m8kEHVErj3w96BigE",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS44QzVGQUU2QjE2NDgxM0M4",
+      "snippet": {
+        "publishedAt": "2017-11-07T09:25:46Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #051 - Progressão Aritmética",
+        "description": "Exercício Python 051: Desenvolva um programa que leia o primeiro termo e a razão de uma PA. No final, mostre os 10 primeiros termos dessa progressão.\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-OnqSGh0u4g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-OnqSGh0u4g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-OnqSGh0u4g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-OnqSGh0u4g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-OnqSGh0u4g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 51,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-OnqSGh0u4g"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "d3HjaE1v1r1_eUO6TMwzs3GX9Lg",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS4xMzgwMzBERjQ4NjEzNUE5",
+      "snippet": {
+        "publishedAt": "2017-11-08T11:12:35Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #052 - Números primos",
+        "description": "Exercício Python 052: Faça um programa que leia um número inteiro e diga se ele é ou não um número primo.\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Er5Hyd4LyVw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Er5Hyd4LyVw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Er5Hyd4LyVw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Er5Hyd4LyVw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Er5Hyd4LyVw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 52,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Er5Hyd4LyVw"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0Ti-yQs7Mgeq06sCcZlvz1IfuDc",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS4zMEQ1MEIyRTFGNzhDQzFB",
+      "snippet": {
+        "publishedAt": "2017-11-09T10:23:48Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #053 - Detector de Palíndromo",
+        "description": "Exercício Python 053: Crie um programa que leia uma frase qualquer e diga se ela é um palíndromo, desconsiderando os espaços.\n\nExemplos de palíndromos: APOS A SOPA, A SACADA DA CASA, A TORRE DA DERROTA, O LOBO AMA O BOLO, ANOTARAM A DATA DA MARATONA.\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5VBWe6BXzRo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5VBWe6BXzRo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5VBWe6BXzRo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5VBWe6BXzRo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5VBWe6BXzRo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 53,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5VBWe6BXzRo"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3Nae_Envboi0hVuv-WJOnmE0bPk",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS42Qzk5MkEzQjVFQjYwRDA4",
+      "snippet": {
+        "publishedAt": "2017-11-10T10:14:58Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #054 - Grupo da Maioridade",
+        "description": "Exercício Python 054: Crie um programa que leia o ano de nascimento de sete pessoas. No final, mostre quantas pessoas ainda não atingiram a maioridade e quantas já são maiores.\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IL5iBWoKRIs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IL5iBWoKRIs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IL5iBWoKRIs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IL5iBWoKRIs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IL5iBWoKRIs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 54,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IL5iBWoKRIs"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "js51ALEmAO0FOC0Apby29-rFyEU",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS41NTZEOThBNThFOUVGQkVB",
+      "snippet": {
+        "publishedAt": "2017-11-13T22:13:05Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #055 - Maior e menor da sequência",
+        "description": "Exercício Python 055: Faça um programa que leia o peso de cinco pessoas. No final, mostre qual foi o maior e o menor peso lidos.\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Kjpb_IAOKRQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Kjpb_IAOKRQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Kjpb_IAOKRQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Kjpb_IAOKRQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Kjpb_IAOKRQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 55,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Kjpb_IAOKRQ"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AlGXiwYWOtZB6fnF6d2O1jgscKA",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS43NERCMDIzQzFBMERCMEE3",
+      "snippet": {
+        "publishedAt": "2017-11-14T22:59:05Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #056 - Analisador completo",
+        "description": "Exercício Python 056: Desenvolva um programa que leia o nome, idade e sexo de 4 pessoas. No final do programa, mostre: a média de idade do grupo, qual é o nome do homem mais velho e quantas mulheres têm menos de 20 anos.\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fokDF4th0IY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fokDF4th0IY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fokDF4th0IY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fokDF4th0IY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fokDF4th0IY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 56,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fokDF4th0IY"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nsAP6j4MMPwGKLdcmG7-WvYaWxo",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS5GNjAwN0Y0QTFGOTVDMEMy",
+      "snippet": {
+        "publishedAt": "2017-11-23T10:27:37Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #057 - Validação de Dados",
+        "description": "Exercício Python 057: Faça um programa que leia o sexo de uma pessoa, mas só aceite os valores 'M' ou 'F'. Caso esteja errado, peça a digitação novamente até ter um valor correto.\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JGztEBLGj5E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JGztEBLGj5E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JGztEBLGj5E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JGztEBLGj5E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JGztEBLGj5E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 57,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JGztEBLGj5E"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qXAckD3EN4IOEisQjc9BglBYn9I",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS5CQkEwRDA0MDkwNUM2MDY1",
+      "snippet": {
+        "publishedAt": "2017-11-28T09:13:48Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #058 - Jogo da Adivinhação v2.0",
+        "description": "Exercício Python 058: Melhore o jogo do DESAFIO 028 onde o computador vai \"pensar\" em um número entre 0 e 10. Só que agora o jogador vai tentar adivinhar até acertar, mostrando no final quantos palpites foram necessários para vencer.\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-QkOIHJ1Chw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-QkOIHJ1Chw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-QkOIHJ1Chw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-QkOIHJ1Chw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-QkOIHJ1Chw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 58,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-QkOIHJ1Chw"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yyVDQo2v4EuNFgGm4KpStQtp-qY",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS4wNEU1MTI4NkZEMzVBN0JF",
+      "snippet": {
+        "publishedAt": "2017-11-29T09:21:36Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #059 - Criando um Menu de Opções",
+        "description": "Exercício Python 059: Crie um programa que leia dois valores e mostre um menu na tela:\n[ 1 ] somar\n[ 2 ] multiplicar\n[ 3 ] maior\n[ 4 ] novos números\n[ 5 ] sair do programa\nSeu programa deverá realizar a operação solicitada em cada caso.\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OBJL5vPj4-E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OBJL5vPj4-E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OBJL5vPj4-E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OBJL5vPj4-E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OBJL5vPj4-E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 59,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OBJL5vPj4-E"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "L0kxyQFpwZ06JB5aakyamI-kbrY",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS4wMTYxQzVBRDI1NEVDQUZE",
+      "snippet": {
+        "publishedAt": "2017-12-02T14:56:24Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #060 - Cálculo do Fatorial",
+        "description": "Exercício Python 060: Faça um programa que leia um número qualquer e mostre o seu fatorial.\n\nEx: 5! = 5 x 4 x 3 x 2 x 1 = 120\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9dlBZlkvvxY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9dlBZlkvvxY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9dlBZlkvvxY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9dlBZlkvvxY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9dlBZlkvvxY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 60,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9dlBZlkvvxY"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HRQbQwhx15kkTZrQYzKgxo-KY2w",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS4zMUEyMkQwOTk0NTg4MDgw",
+      "snippet": {
+        "publishedAt": "2017-12-04T22:50:01Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #061 - Progressão Aritmética v2.0",
+        "description": "Exercício Python 061: Refaça o DESAFIO 051, lendo o primeiro termo e a razão de uma PA, mostrando os 10 primeiros termos da progressão usando a estrutura while.\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vu5ehetQGe8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vu5ehetQGe8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vu5ehetQGe8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vu5ehetQGe8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vu5ehetQGe8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 61,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vu5ehetQGe8"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vgAPH1t3VkQTg225qmjUEBxXbNM",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS42QzdBMzlBQzQzRjQ0QkQy",
+      "snippet": {
+        "publishedAt": "2017-12-07T11:02:28Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #062 - Super Progressão Aritmética v3.0",
+        "description": "Exercício Python 062: Melhore o DESAFIO 061, perguntando para o usuário se ele quer mostrar mais alguns termos. O programa encerrará quando ele disser que quer mostrar 0 termos.\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BWAWq7n6PCk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BWAWq7n6PCk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BWAWq7n6PCk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BWAWq7n6PCk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BWAWq7n6PCk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 62,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BWAWq7n6PCk"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "V1MMZ11qNhWLSZzxZReq7ltxxMM",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS41OURENDc2NEM1MDI5Mjky",
+      "snippet": {
+        "publishedAt": "2017-12-08T10:20:15Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #063 - Sequência de Fibonacci v1.0",
+        "description": "Exercício Python 063: Escreva um programa que leia um número N inteiro qualquer e mostre na tela os N primeiros elementos de uma Sequência de Fibonacci. \n\nEx: 0 - 1 - 1 - 2 - 3 - 5 - 8\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w7yn1_Mfu0E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w7yn1_Mfu0E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w7yn1_Mfu0E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/w7yn1_Mfu0E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/w7yn1_Mfu0E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 63,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "w7yn1_Mfu0E"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yHi2T7TOylpjVMbvs6BHOppe70Y",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS4wRjhFM0MxMTU1MEUzQ0VB",
+      "snippet": {
+        "publishedAt": "2017-12-11T13:14:12Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #064 - Tratando vários valores v1.0",
+        "description": "Exercício Python 064: Crie um programa que leia vários números inteiros pelo teclado. O programa só vai parar quando o usuário digitar o valor 999, que é a condição de parada. No final, mostre quantos números foram digitados e qual foi a soma entre eles (desconsiderando o flag).\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mYlbttiLHM0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mYlbttiLHM0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mYlbttiLHM0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mYlbttiLHM0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mYlbttiLHM0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 64,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mYlbttiLHM0"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cf9JZD4OMeTMPn3wnfmHrabLDMM",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS5CNTZFOTNGQzZEODg1RUQx",
+      "snippet": {
+        "publishedAt": "2017-12-12T00:06:35Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #065 - Maior e Menor valores",
+        "description": "Exercício Python 065: Crie um programa que leia vários números inteiros pelo teclado. No final da execução, mostre a média entre todos os valores e qual foi o maior e o menor valores lidos. O programa deve perguntar ao usuário se ele quer ou não continuar a digitar valores.\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QNPuPlPM--0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QNPuPlPM--0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QNPuPlPM--0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QNPuPlPM--0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QNPuPlPM--0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 65,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QNPuPlPM--0"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WFBuMvKIccwYcR0yEr_xcRVe30g",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS5CNTcxMDQ0NThBNzMxODYz",
+      "snippet": {
+        "publishedAt": "2017-12-18T12:11:06Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #066 - Vários números com flag",
+        "description": "Exercício Python 066: Crie um programa que leia números inteiros pelo teclado. O programa só vai parar quando o usuário digitar o valor 999, que é a condição de parada. No final, mostre quantos números foram digitados e qual foi a soma entre elas (desconsiderando o flag).\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d2ug6quC1bk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d2ug6quC1bk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d2ug6quC1bk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/d2ug6quC1bk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/d2ug6quC1bk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 66,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "d2ug6quC1bk"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6siVaNPQID-lx3gEtrblW8XsOno",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS4xM0YyM0RDNDE4REQ1NDA0",
+      "snippet": {
+        "publishedAt": "2017-12-19T12:36:25Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #067 - Tabuada v3.0",
+        "description": "Exercício Python 067: Faça um programa que mostre a tabuada de vários números, um de cada vez, para cada valor digitado pelo usuário. O programa será interrompido quando o número solicitado for negativo. \n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X0a5aZg93Uc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X0a5aZg93Uc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X0a5aZg93Uc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X0a5aZg93Uc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X0a5aZg93Uc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 67,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "X0a5aZg93Uc"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OFy0V0OdcvxqNihhn--_zQ-G34Q",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS42MjYzMTMyQjA0QURCN0JF",
+      "snippet": {
+        "publishedAt": "2017-12-21T10:02:50Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #068 - Jogo do Par ou Ímpar",
+        "description": "Exercício Python 068: Faça um programa que jogue par ou ímpar com o computador. O jogo só será interrompido quando o jogador perder, mostrando o total de vitórias consecutivas que ele conquistou no final do jogo. \n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EIzgKCCDdc0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EIzgKCCDdc0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EIzgKCCDdc0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EIzgKCCDdc0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EIzgKCCDdc0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 68,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EIzgKCCDdc0"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0T8Pbdtog6w1YjtHBFzngK1vrTU",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS42RTNCOEMxREI3Q0VDMjU2",
+      "snippet": {
+        "publishedAt": "2018-01-09T12:43:07Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #069 - Análise de dados do grupo",
+        "description": "Exercício Python 069: Crie um programa que leia a idade e o sexo de várias pessoas. A cada pessoa cadastrada, o programa deverá perguntar se o usuário quer ou não continuar. No final, mostre:\nA) quantas pessoas tem mais de 18 anos.\nB) quantos homens foram cadastrados.\nC) quantas mulheres tem menos de 20 anos. \n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4Ca6iRJo3M0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4Ca6iRJo3M0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4Ca6iRJo3M0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4Ca6iRJo3M0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4Ca6iRJo3M0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 69,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4Ca6iRJo3M0"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "80q_dQn5io9HIuQh3kK3mV7Nc-k",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS43QzNCNkZENzIyMDY2MjZB",
+      "snippet": {
+        "publishedAt": "2018-01-11T09:50:19Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #070 - Estatísticas em produtos",
+        "description": "Exercício Python 070: Crie um programa que leia o nome e o preço de vários produtos. O programa deverá perguntar se o usuário vai continuar ou não. No final, mostre:\nA) qual é o total gasto na compra.\nB) quantos produtos custam mais de R$1000.\nC) qual é o nome do produto mais barato. \n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hS8QdW-1HTo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hS8QdW-1HTo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hS8QdW-1HTo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hS8QdW-1HTo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hS8QdW-1HTo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 70,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hS8QdW-1HTo"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UY_3lsH_n-Lc_cF_7svaRQ1zT7U",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS5EQkE3RTJCQTJEQkFBQTcz",
+      "snippet": {
+        "publishedAt": "2018-01-19T12:36:43Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #071 - Simulador de Caixa Eletrônico",
+        "description": "Exercício Python 071: Crie um programa que simule o funcionamento de um caixa eletrônico. No início, pergunte ao usuário qual será o valor a ser sacado (número inteiro) e o programa vai informar quantas cédulas de cada valor serão entregues.\nOBS: considere que o caixa possui cédulas de R$50, R$20, R$10 e R$1.\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_XGgwltYpYk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_XGgwltYpYk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_XGgwltYpYk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_XGgwltYpYk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_XGgwltYpYk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 71,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_XGgwltYpYk"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "I4aPBtZA2VG-_g__5d_otkkQeqw",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS4yQzk4QTA5QjkzMTFFOEI1",
+      "snippet": {
+        "publishedAt": "2018-05-21T23:58:34Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #072 - Número por Extenso",
+        "description": "Exercício Python 072: Crie um programa que tenha uma dupla totalmente preenchida com uma contagem por extenso, de zero até vinte. Seu programa deverá ler um número pelo teclado (entre 0 e 20) e mostrá-lo por extenso.\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja o curso de Python PARTE 3 em https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ei2Kr3ccfO0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ei2Kr3ccfO0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ei2Kr3ccfO0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ei2Kr3ccfO0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ei2Kr3ccfO0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 72,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ei2Kr3ccfO0"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dNrY8BeaRfxdEvpSl8X2OdwwUcw",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS45NDlDQUFFOThDMTAxQjUw",
+      "snippet": {
+        "publishedAt": "2018-05-28T16:07:49Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #073 - Tuplas com Times de Futebol",
+        "description": "Exercício Python 073: Crie uma tupla preenchida com os 20 primeiros colocados da Tabela do Campeonato Brasileiro de Futebol, na ordem de colocação. Depois mostre:\na) Os 5 primeiros times.\nb) Os últimos 4 colocados.\nc) Times em ordem alfabética. \nd) Em que posição está o time da Chapecoense.\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja o curso de Python PARTE 3 em https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RexybLcGewA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RexybLcGewA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RexybLcGewA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RexybLcGewA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RexybLcGewA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 73,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RexybLcGewA"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LOwtiIYTiMWgi2ahxxAz7APk1y4",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS4xN0Y2QjVBOEI2MzQ5OUM5",
+      "snippet": {
+        "publishedAt": "2018-05-30T11:30:25Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #074 - Maior e menor valores em Tupla",
+        "description": "Exercício Python 074: Crie um programa que vai gerar cinco números aleatórios e colocar em uma tupla. Depois disso, mostre a listagem de números gerados e também indique o menor e o maior valor que estão na tupla.\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja o curso de Python PARTE 3 em https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mlwt2CRQkTQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mlwt2CRQkTQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mlwt2CRQkTQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mlwt2CRQkTQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mlwt2CRQkTQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 74,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mlwt2CRQkTQ"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lBwhZesbDb16-jhpvBnPZ8y0gqE",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS5FQUY2Qzk4RUFDN0ZFRkZF",
+      "snippet": {
+        "publishedAt": "2018-06-04T08:58:03Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #075 - Análise de dados em uma Tupla",
+        "description": "Exercício Python 075: Desenvolva um programa que leia quatro valores pelo teclado e guarde-os em uma tupla. No final, mostre:\n\nA) Quantas vezes apareceu o valor 9.\nB) Em que posição foi digitado o primeiro valor 3.\nC) Quais foram os números pares.\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja o curso de Python PARTE 3 em https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1u7oA8ckjAc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1u7oA8ckjAc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1u7oA8ckjAc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1u7oA8ckjAc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1u7oA8ckjAc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 75,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1u7oA8ckjAc"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HeNtc60g5LiBbRn25GgXH1u_BkA",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS5CMEVBRUJERkUyNTBENTkz",
+      "snippet": {
+        "publishedAt": "2018-06-06T11:19:09Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #076 - Lista de Preços com Tupla",
+        "description": "Exercício Python 076: Crie um programa que tenha uma tupla única com nomes de produtos e seus respectivos preços, na sequência. No final, mostre uma listagem de preços, organizando os dados em forma tabular.\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja o curso de Python PARTE 3 em https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qp2cXfCHk2I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qp2cXfCHk2I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qp2cXfCHk2I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Qp2cXfCHk2I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Qp2cXfCHk2I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 76,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Qp2cXfCHk2I"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NmKDeFxZfaSyCenuyyCaT3XKDTo",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS4xNjIyNEE0MDEyRDlCMjBE",
+      "snippet": {
+        "publishedAt": "2018-06-08T23:23:13Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #077 - Contando vogais em Tupla",
+        "description": "Exercício Python 077: Crie um programa que tenha uma tupla com várias palavras (não usar acentos). Depois disso, você deve mostrar, para cada palavra, quais são as suas vogais.\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja o curso de Python PARTE 3 em https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8BgSqrOpKvU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8BgSqrOpKvU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8BgSqrOpKvU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8BgSqrOpKvU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8BgSqrOpKvU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 77,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8BgSqrOpKvU"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5pw_qZTbr-UQ9rfkXEsIZU49aWA",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS44QTY2MEEzNzBFQUJCMUQ2",
+      "snippet": {
+        "publishedAt": "2018-06-15T14:13:02Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #078 - Maior e Menor valores na Lista",
+        "description": "Exercício Python 078: Faça um programa que leia 5 valores numéricos e guarde-os em uma lista. No final, mostre qual foi o maior e o menor valor digitado e as suas respectivas posições na lista. \n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja o curso de Python PARTE 3 em https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q8Z1cRdJnfk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q8Z1cRdJnfk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q8Z1cRdJnfk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q8Z1cRdJnfk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/q8Z1cRdJnfk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 78,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "q8Z1cRdJnfk"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fkbvvUaOWe_mcXDvNo9I89NVfJA",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS4zQTkzRjgxRTY0OEU0MkM3",
+      "snippet": {
+        "publishedAt": "2018-06-19T19:20:32Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #079 - Valores únicos em uma Lista",
+        "description": "Exercício Python 079: Crie um programa onde o usuário possa digitar vários valores numéricos e cadastre-os em uma lista. Caso o número já exista lá dentro, ele não será adicionado. No final, serão exibidos todos os valores únicos digitados, em ordem crescente. \n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja o curso de Python PARTE 3 em https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LkAzRnc_GPk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LkAzRnc_GPk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LkAzRnc_GPk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LkAzRnc_GPk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LkAzRnc_GPk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 79,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LkAzRnc_GPk"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rrS3UKOdWtpSttCqbZH0hnHrwQs",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS4xNTZBNUQxMDZBQzFGMjkw",
+      "snippet": {
+        "publishedAt": "2018-07-02T23:28:11Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #080 - Lista ordenada sem repetições",
+        "description": "Exercício Python 080: Crie um programa onde o usuário possa digitar cinco valores numéricos e cadastre-os em uma lista, já na posição correta de inserção (sem usar o sort()). No final, mostre a lista ordenada na tela.\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja o curso de Python PARTE 3 em https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QDpwjBYRcVE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QDpwjBYRcVE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QDpwjBYRcVE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QDpwjBYRcVE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QDpwjBYRcVE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 80,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QDpwjBYRcVE"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zmJToQSjnp0SG0BBIKMI0hWZQM8",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS4wMDFGNzBEOTU4Q0Y1Q0RG",
+      "snippet": {
+        "publishedAt": "2018-07-02T23:42:01Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #081 - Extraindo dados de uma Lista",
+        "description": "Exercício Python 081: Crie um programa que vai ler vários números e colocar em uma lista. Depois disso, mostre:\nA) Quantos números foram digitados.\nB) A lista de valores, ordenada de forma decrescente.\nC) Se o valor 5 foi digitado e está ou não na lista.\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja o curso de Python PARTE 3 em https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SXJKAVVlvGA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SXJKAVVlvGA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SXJKAVVlvGA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SXJKAVVlvGA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SXJKAVVlvGA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 81,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SXJKAVVlvGA"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "D2EOz8GwlFyX8j27ZMwkGzCU3ww",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS44QTA1QTQyRTc3M0VGQzYx",
+      "snippet": {
+        "publishedAt": "2018-07-08T01:12:12Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #082 - Dividindo valores em várias listas",
+        "description": "Exercício Python 082: Crie um programa que vai ler vários números e colocar em uma lista. Depois disso, crie duas listas extras que vão conter apenas os valores pares e os valores ímpares digitados, respectivamente. Ao final, mostre o conteúdo das três listas geradas.\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja o curso de Python PARTE 3 em https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uk0gDFQEo_I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uk0gDFQEo_I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uk0gDFQEo_I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uk0gDFQEo_I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uk0gDFQEo_I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 82,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uk0gDFQEo_I"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WGvWLn1tBwjyac8r5PXZ-8BcE9E",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS44MkM2RjVEQkQ5N0I2MjVE",
+      "snippet": {
+        "publishedAt": "2018-07-11T02:16:46Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #083 - Validando expressões matemáticas",
+        "description": "Exercício Python 083: Crie um programa onde o usuário digite uma expressão qualquer que use parênteses. Seu aplicativo deverá analisar se a expressão passada está com os parênteses abertos e fechados na ordem correta.\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja o curso de Python PARTE 3 em https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dvhP41Z7TLk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dvhP41Z7TLk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dvhP41Z7TLk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dvhP41Z7TLk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dvhP41Z7TLk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 83,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dvhP41Z7TLk"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3JkbadP3NOFiuKTzCZNKvCPgX64",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS40NzE2MTY1QTM3RUI3QkU3",
+      "snippet": {
+        "publishedAt": "2018-07-18T14:15:21Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #084 - Lista composta e análise de dados",
+        "description": "Exercício Python 084: Faça um programa que leia nome e peso de várias pessoas, guardando tudo em uma lista. No final, mostre:\nA) Quantas pessoas foram cadastradas.\nB) Uma listagem com as pessoas mais pesadas.\nC) Uma listagem com as pessoas mais leves.\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja o curso de Python PARTE 3 em https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zPtvuLiEdKk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zPtvuLiEdKk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zPtvuLiEdKk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zPtvuLiEdKk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zPtvuLiEdKk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 84,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zPtvuLiEdKk"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ucaW4xWG_UrhXHf9yuva8fjQ61M",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS5EMzJDRTUwQjBEOUVFQzAw",
+      "snippet": {
+        "publishedAt": "2018-07-24T17:55:47Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #085 - Listas com pares e ímpares",
+        "description": "Exercício Python 085: Crie um programa onde o usuário possa digitar sete valores numéricos e cadastre-os em uma lista única que mantenha separados os valores pares e ímpares. No final, mostre os valores pares e ímpares em ordem crescente.\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja o curso de Python PARTE 3 em https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2-fy24bbMJ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2-fy24bbMJ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2-fy24bbMJ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2-fy24bbMJ4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2-fy24bbMJ4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 85,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2-fy24bbMJ4"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HQJAicwadP3sE_fW-GknktDaqvQ",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS5CMUM0NzY5NzdEQzlGRjAx",
+      "snippet": {
+        "publishedAt": "2018-08-01T11:09:14Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #086 - Matriz em Python",
+        "description": "Exercício Python 086: Crie um programa que declare uma matriz de dimensão 3x3 e preencha com valores lidos pelo teclado. No final, mostre a matriz na tela, com a formatação correta.\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja o curso de Python PARTE 3 em https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EGmlFdwD4C4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EGmlFdwD4C4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EGmlFdwD4C4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EGmlFdwD4C4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EGmlFdwD4C4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 86,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EGmlFdwD4C4"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dunqxrfVQ0d02JGakaLkmVjWc2I",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS5GMDBDNkJGMzYzREUyMTYw",
+      "snippet": {
+        "publishedAt": "2018-08-05T19:22:08Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #087 - Mais sobre Matriz em Python",
+        "description": "Exercício Python 087: Aprimore o desafio anterior, mostrando no final: \nA) A soma de todos os valores pares digitados.\nB) A soma dos valores da terceira coluna.\nC) O maior valor da segunda linha.\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja o curso de Python PARTE 3 em https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QhS829x6up4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QhS829x6up4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QhS829x6up4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QhS829x6up4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QhS829x6up4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 87,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QhS829x6up4"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gz235eipQqN9VUrGADLJ5rjYb9A",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS4wQUE0QzM4MkJGQ0YwQjUx",
+      "snippet": {
+        "publishedAt": "2018-08-09T10:46:25Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #088 - Palpites para a Mega Sena",
+        "description": "Exercício Python 088: Faça um programa que ajude um jogador da MEGA SENA a criar palpites.O programa vai perguntar quantos jogos serão gerados e vai sortear 6 números entre 1 e 60 para cada jogo, cadastrando tudo em uma lista composta.\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja o curso de Python PARTE 3 em https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Hd7Ycaj61xE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Hd7Ycaj61xE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Hd7Ycaj61xE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Hd7Ycaj61xE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Hd7Ycaj61xE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 88,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Hd7Ycaj61xE"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2UE5s7TmytwfvlOCgvD3Ce66vv0",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS5DQjg2RDQyMEVGQkZFOEVF",
+      "snippet": {
+        "publishedAt": "2018-08-13T01:03:08Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #089 - Boletim com listas compostas",
+        "description": "Exercício Python 089: Crie um programa que leia nome e duas notas de vários alunos e guarde tudo em uma lista composta. No final, mostre um boletim contendo a média de cada um e permita que o usuário possa mostrar as notas de cada aluno individualmente.\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja o curso de Python PARTE 3 em https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7xrCJnniqMw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7xrCJnniqMw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7xrCJnniqMw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7xrCJnniqMw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7xrCJnniqMw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 89,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7xrCJnniqMw"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1fQqpKyHNCkDxyvSN8skbfcZ8ZA",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS5ERENFNTk4Q0Q2MTZDMTA5",
+      "snippet": {
+        "publishedAt": "2018-08-23T11:41:33Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #090 - Dicionário em Python",
+        "description": "Exercício Python 090: Faça um programa que leia nome e média de um aluno, guardando também a situação em um dicionário. No final, mostre o conteúdo da estrutura na tela.\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja o curso de Python PARTE 3 em https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HipQYUk4koA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HipQYUk4koA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HipQYUk4koA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HipQYUk4koA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HipQYUk4koA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 90,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HipQYUk4koA"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-1jXPE8EikUj9oMyHl8MOX3jdko",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS41RDUzRjJFQ0Y0MUI3NzU1",
+      "snippet": {
+        "publishedAt": "2018-09-03T01:59:45Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #091 - Jogo de Dados em Python",
+        "description": "Exercício Python 091: Crie um programa onde 4 jogadores joguem um dado e tenham resultados aleatórios. Guarde esses resultados em um dicionário em Python. No final, coloque esse dicionário em ordem, sabendo que o vencedor tirou o maior número no dado.\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja o curso de Python PARTE 3 em https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cwrqIztaAwk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cwrqIztaAwk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cwrqIztaAwk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cwrqIztaAwk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cwrqIztaAwk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 91,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cwrqIztaAwk"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1qawff9jkXkSeUQPyVGZHzmTTos",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS5FRjdGNDMzN0I2RTI3MDlG",
+      "snippet": {
+        "publishedAt": "2018-09-05T10:47:10Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #092 - Cadastro de Trabalhador em Python",
+        "description": "Exercício Python 092: Crie um programa que leia nome, ano de nascimento e carteira de trabalho e cadastre-o (com idade) em um dicionário. Se por acaso a CTPS for diferente de ZERO, o dicionário receberá também o ano de contratação e o salário. Calcule e acrescente, além da idade, com quantos anos a pessoa vai se aposentar.\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja o curso de Python PARTE 3 em https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vsqemzdrj78/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vsqemzdrj78/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vsqemzdrj78/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Vsqemzdrj78/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Vsqemzdrj78/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 92,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Vsqemzdrj78"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "C51HzHljPtcRvotvKmy9EXW-63U",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS41ODIyMTgwQzA4NjJCQkZC",
+      "snippet": {
+        "publishedAt": "2018-09-12T00:54:43Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #093 - Cadastro de Jogador de Futebol",
+        "description": "Exercício Python 093: Crie um programa que gerencie o aproveitamento de um jogador de futebol. O programa vai ler o nome do jogador e quantas partidas ele jogou. Depois vai ler a quantidade de gols feitos em cada partida. No final, tudo isso será guardado em um dicionário, incluindo o total de gols feitos durante o campeonato.\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja o curso de Python PARTE 3 em https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5yKiud-YNaE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5yKiud-YNaE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5yKiud-YNaE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5yKiud-YNaE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5yKiud-YNaE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 93,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5yKiud-YNaE"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ptw_nswFLbyKOtcGt4vwT9sNJnk",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS5CNEYyNTVBNDdGMDI1MDNC",
+      "snippet": {
+        "publishedAt": "2018-10-02T02:04:42Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #094 - Unindo dicionários e listas",
+        "description": "Exercício Python 094: Crie um programa que leia nome, sexo e idade de várias pessoas, guardando os dados de cada pessoa em um dicionário e todos os dicionários em uma lista. No final, mostre: \nA) Quantas pessoas foram cadastradas\nB) A média de idade\nC) Uma lista com as mulheres\nD) Uma lista de pessoas com idade acima da média\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja o curso de Python PARTE 3 em https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ETnExBCFeps/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ETnExBCFeps/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ETnExBCFeps/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ETnExBCFeps/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ETnExBCFeps/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 94,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ETnExBCFeps"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MSzSVAJRi9DQxJ2FtCyA6kGDwps",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS5EMUJFNzRCNDRFQjE5RjM4",
+      "snippet": {
+        "publishedAt": "2018-10-05T01:57:13Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #095 - Aprimorando os Dicionários",
+        "description": "Exercício Python 095: Aprimore o desafio 93 para que ele funcione com vários jogadores, incluindo um sistema de visualização de detalhes do aproveitamento de cada jogador.\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja o curso de Python PARTE 3 em https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mw1So0r317Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mw1So0r317Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mw1So0r317Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mw1So0r317Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mw1So0r317Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 95,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mw1So0r317Y"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7_-1acr9TK4_Gjz3MD5xaop5pH8",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS43ODA2MDVCQzY5QzZDMjUw",
+      "snippet": {
+        "publishedAt": "2018-10-17T12:39:47Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #096 - Função que calcula área",
+        "description": "Exercício Python 096: Faça um programa que tenha uma função chamada área(), que receba as dimensões de um terreno retangular (largura e comprimento) e mostre a área do terreno.\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja o curso de Python PARTE 3 em https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oV1s53YGtvE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oV1s53YGtvE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oV1s53YGtvE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oV1s53YGtvE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oV1s53YGtvE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 96,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oV1s53YGtvE"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VWATGxl4Paloo4lJdhszFLvoa2s",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS40OTQ5QjlEMDgzN0FBNUIw",
+      "snippet": {
+        "publishedAt": "2018-10-24T10:37:45Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #097 - Um print especial",
+        "description": "Exercício Python 097: Faça um programa que tenha uma função chamada escreva(), que receba um texto qualquer como parâmetro e mostre uma mensagem com tamanho adaptável.\n\nEx: \nescreva('Olá, Mundo!')\nSaída:\n~~~~~~~~~\n Olá, Mundo!\n~~~~~~~~~\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja o curso de Python PARTE 3 em https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q6basnSo7r0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q6basnSo7r0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q6basnSo7r0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q6basnSo7r0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Q6basnSo7r0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 97,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Q6basnSo7r0"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FiRnlpnZ0pTIiYxhg3GhVuSujGc",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS5CQzUwREI3MzkxQjdBM0E0",
+      "snippet": {
+        "publishedAt": "2018-11-01T15:24:11Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #098 - Função de Contador",
+        "description": "Exercício Python 098: Faça um programa que tenha uma função chamada contador(), que receba três parâmetros: início, fim e passo. Seu programa tem que realizar três contagens através da função criada:\n\na) de 1 até 10, de 1 em 1\nb) de 10 até 0, de 2 em 2\nc) uma contagem personalizada\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja o curso de Python PARTE 3 em https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DCBlt_z2UOE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DCBlt_z2UOE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DCBlt_z2UOE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DCBlt_z2UOE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DCBlt_z2UOE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 98,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DCBlt_z2UOE"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fzE1sYHXZynLBZAuHMmNe5H1R9M",
+      "id": "UExIel9BcmVIbTRkbTZ3WU9JVzIwTnlnMTJUQWptTUdULS4yOTZGRTNEQ0ZGNUM5RDgw",
+      "snippet": {
+        "publishedAt": "2018-11-12T09:56:33Z",
+        "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+        "title": "Exercício Python #099 - Função que descobre o maior",
+        "description": "Exercício Python 099: Faça um programa que tenha uma função chamada maior(), que receba vários parâmetros com valores inteiros. Seu programa tem que analisar todos os valores e dizer qual deles é o maior.\n\nVeja o curso de Python PARTE 1 em https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6\nVeja o curso de Python PARTE 2 em https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye\nVeja o curso de Python PARTE 3 em https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH\nVeja a lista de exercícios de Python em https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-\n\nGostou da aula? Então torne-se um Gafanhoto APOIADOR do CursoemVídeo acessando o site cursoemvideo.com/apoie\n\nAula do Curso de Python criado pelo professor Gustavo Guanabara para o portal CursoemVideo.com.\n\nCurso em Vídeo\nSeja um apoiador: http://cursoemvideo.com/apoie\nSite: http://www.cursoemvideo.com\nYouTube: http://www.youtube.com/cursoemvideo\nFacebook: http://www.facebook.com/cursosemvideo\nTwitter: http://twitter.com/cursosemvideo\nGoogle+: http://plus.google.com/112666558837414979080\n\nPatrocínio\nHOSTNET: http://www.hostnet.com.br\nGAFANHOTOS: http://apoie.me/cursoemvideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vp9UX7wr92o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vp9UX7wr92o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vp9UX7wr92o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vp9UX7wr92o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vp9UX7wr92o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Curso em Vídeo",
+        "playlistId": "PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-",
+        "position": 99,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vp9UX7wr92o"
+        },
+        "videoOwnerChannelTitle": "Curso em Vídeo",
+        "videoOwnerChannelId": "UCrWvhVmt0Qac3HgsjQK62FQ"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 120,
+    "resultsPerPage": 50
+  }
+}
