@@ -1,64 +1,99 @@
 from touch import touch
 from jsonReader import jsonFileToData
 
-index = int( input(' Which is the number of the exercise that you want to create? ' ) ) 
-index = index -1
+#index = int( input(' Which is the number of the exercise that you want to create? ' ) )
+index = 0
 
 root     = '../../'
 jsonFile = root + 'tools/data/data.json'
 data = jsonFileToData( jsonFile )
-exercise = data[index]
+#exercise = data[index]
+exercise = None
 
-def title1(string):
+def h1(string):
     return f'# {string}\n\n'
 
-def title2(string):
+def h2(string):
     return f'## {string}\n\n'
 
-def listExamples(string):
-    return f'{string}\n\n'
+def h3(string):
+    return f'### {string}\n\n'
 
-def title3(string):
-    return f'## {string}\n\n'
+def listExamples():
+    return f'- [python](python)\n\n'
 
-def sectionNext(string):
+def sectionNext(string, language=None):
+    parentDir = '../'
+    subDir = ''
     temp = ''
+    if language:
+        parentDir += '../'
+        subDir = language
+
     if index > 0:
-        number = data[ index-1 ]["number"]	
-        temp = f'- [{string} {number}](../{number})\n'
+        number = data[ index-1 ]["number"]
+        temp += f'- [{string} {number}]({parentDir + number + subDir})\n'
 
-    number = data[ index ]["number"]	
-    temp += f'- **{string} {number}**\n' 
+    number = data[ index ]["number"]
+    temp += f'- **{string} {number}**\n'
 
-    number = data[ index + 1 ]["number"]	
-    temp +=  f'- [{string} {number}](../{number})\n'
-
+    number = data[ index + 1 ]["number"]
+    temp += f'- [{string} {number}]({parentDir + number + subDir})\n'
+    temp += f'- [Lista de Exercicios]({parentDir})\n\n'
     return temp
-
-def linkToExerciseList(string):
-    return f'- [{string}](..)\n\n' 
 
 def thumbnail(string):
     return f'[![{string}](https://img.youtube.com/vi/{exercise["videoId"]}/maxresdefault.jpg)](https://youtu.be/{exercise["videoId"]})'
 
-def writeExerciseReadme(idiom,content):
-    dirPath = root + idiom + '/' + exercise["number"] + '/'
-    readmePath = dirPath + 'README.md'
-    touch(dirPath)
-    file = open( readmePath, 'w')
-    file.write(content)
-    file.close()
+def exerciseFolder(idiom):
+    return root + idiom + '/' + exercise["number"] + '/'
 
-    print(f'Was wrrite on file {readmePath} :')
-    print(content)
+def exampleFolder(idiom, language):
+    return exerciseFolder(idiom) + language + '/'
 
-ptReadme  = title1(exercise['pt'])
-ptReadme += title2('Exemplos')
-ptReadme += listExamples('Nenhum exemplo ainda')
-ptReadme += title3('Próximo')
-ptReadme += sectionNext('Exercício')
-ptReadme += linkToExerciseList('Lista de Exercícios')
-ptReadme += title2('Video do [@gustavoguanabara](https://github.com/gustavoguanabara) desse exercício')
-ptReadme += thumbnail('Video do exercício')
+def writeFile(dir,name,content):
+    touch(dir)
+    with open( dir + name, 'w', encoding='utf-8') as file:
+        file.write(content)
+        file.close()
+    hr = f'\n{60 * "-"}\n'
+    print(f'{hr}{dir + name} was wrote it:{hr}{content}{hr}')
 
-writeExerciseReadme('pt',ptReadme)
+def writeExerciseReadme():
+    readme  = h1(exercise['pt'])
+    readme += h2('Exemplo')
+    readme += listExamples()
+    readme += h2('Próximo')
+    readme += sectionNext('Exercício')
+    readme += h2('Video do exercício')
+    readme += thumbnail('Video do exercício')
+    writeFile(exerciseFolder('pt'), 'README.md', readme)
+
+def writeExampleReadme():
+    readme  = h1(exercise['pt'])
+    readme += h2('Exemplo em Python')
+    readme += h3('codigo')
+    readme += "``` python\n[coloque o seu codigo aqui]\n```\n\n"
+    readme += h3('saida')
+    readme += "```\n[coloque a saida do seu codigo aqui]\n```\n\n"
+    readme += h2('Próximo')
+    readme += sectionNext('Exercício','python')
+    writeFile(exampleFolder('pt','python'), 'README.md', readme)
+
+def writeExampleCode():
+    code  = h1(exercise['pt'])
+    #code += "\n´´´ OUTPUT -->\n\n\n´´´"
+    writeFile(exampleFolder('pt','python'), 'main.py', code)
+
+def createAllData():
+    global exercise
+    global index
+    for i, element in enumerate(data):
+        exercise = element
+        index = i
+        writeExerciseReadme()
+        writeExampleReadme()
+        writeExampleCode()
+        input('pausa')
+
+createAllData()
