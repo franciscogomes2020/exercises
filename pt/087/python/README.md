@@ -19,8 +19,8 @@ C) O maior valor da segunda linha.
 
 ## Próximo
 
-- [Exercício 086](../../086python)
+- [Exercício 086](../../086/python)
 - **Exercício 087**
-- [Exercício 088](../../088python)
+- [Exercício 088](../../088/python)
 - [Lista de Exercicios](../../)
 

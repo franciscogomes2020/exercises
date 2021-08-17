@@ -20,8 +20,8 @@ d) Em que posição está o time da Chapecoense.
 
 ## Próximo
 
-- [Exercício 072](../../072python)
+- [Exercício 072](../../072/python)
 - **Exercício 073**
-- [Exercício 074](../../074python)
+- [Exercício 074](../../074/python)
 - [Lista de Exercicios](../../)
 

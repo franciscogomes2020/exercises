@@ -20,8 +20,8 @@ C) Quais foram os números pares.
 
 ## Próximo
 
-- [Exercício 074](../../074python)
+- [Exercício 074](../../074/python)
 - **Exercício 075**
-- [Exercício 076](../../076python)
+- [Exercício 076](../../076/python)
 - [Lista de Exercicios](../../)
 

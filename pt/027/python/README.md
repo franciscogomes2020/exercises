@@ -18,8 +18,8 @@ Ex: Ana Maria de Souza (primeiro = Ana; último = Souza).
 
 ## Próximo
 
-- [Exercício 026](../../026python)
+- [Exercício 026](../../026/python)
 - **Exercício 027**
-- [Exercício 028](../../028python)
+- [Exercício 028](../../028/python)
 - [Lista de Exercicios](../../)
 

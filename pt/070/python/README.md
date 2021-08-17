@@ -19,8 +19,8 @@ C) qual é o nome do produto mais barato.
 
 ## Próximo
 
-- [Exercício 069](../../069python)
+- [Exercício 069](../../069/python)
 - **Exercício 070**
-- [Exercício 071](../../071python)
+- [Exercício 071](../../071/python)
 - [Lista de Exercicios](../../)
 

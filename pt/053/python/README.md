@@ -18,8 +18,8 @@ Exemplos de palíndromos: APOS A SOPA, A SACADA DA CASA, A TORRE DA DERROTA, O L
 
 ## Próximo
 
-- [Exercício 052](../../052python)
+- [Exercício 052](../../052/python)
 - **Exercício 053**
-- [Exercício 054](../../054python)
+- [Exercício 054](../../054/python)
 - [Lista de Exercicios](../../)
 

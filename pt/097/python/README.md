@@ -23,8 +23,8 @@ Saída:
 
 ## Próximo
 
-- [Exercício 096](../../096python)
+- [Exercício 096](../../096/python)
 - **Exercício 097**
-- [Exercício 098](../../098python)
+- [Exercício 098](../../098/python)
 - [Lista de Exercicios](../../)
 

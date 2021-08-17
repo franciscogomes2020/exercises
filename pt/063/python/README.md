@@ -18,8 +18,8 @@ Ex: 0 - 1 - 1 - 2 - 3 - 5 - 8
 
 ## Próximo
 
-- [Exercício 062](../../062python)
+- [Exercício 062](../../062/python)
 - **Exercício 063**
-- [Exercício 064](../../064python)
+- [Exercício 064](../../064/python)
 - [Lista de Exercicios](../../)
 

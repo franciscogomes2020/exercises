@@ -22,8 +22,8 @@ Seu programa deverá realizar a operação solicitada em cada caso.
 
 ## Próximo
 
-- [Exercício 058](../../058python)
+- [Exercício 058](../../058/python)
 - **Exercício 059**
-- [Exercício 060](../../060python)
+- [Exercício 060](../../060/python)
 - [Lista de Exercicios](../../)
 

@@ -18,8 +18,8 @@ OBS: considere que o caixa possui cédulas de R$50, R$20, R$10 e R$1.
 
 ## Próximo
 
-- [Exercício 070](../../070python)
+- [Exercício 070](../../070/python)
 - **Exercício 071**
-- [Exercício 072](../../072python)
+- [Exercício 072](../../072/python)
 - [Lista de Exercicios](../../)
 

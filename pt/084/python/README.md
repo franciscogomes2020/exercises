@@ -19,8 +19,8 @@ C) Uma listagem com as pessoas mais leves.
 
 ## Próximo
 
-- [Exercício 083](../../083python)
+- [Exercício 083](../../083/python)
 - **Exercício 084**
-- [Exercício 085](../../085python)
+- [Exercício 085](../../085/python)
 - [Lista de Exercicios](../../)
 

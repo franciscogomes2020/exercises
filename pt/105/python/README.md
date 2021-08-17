@@ -24,8 +24,8 @@ Adicione também as docstrings dessa função para consulta pelo desenvolvedor.
 
 ## Próximo
 
-- [Exercício 104](../../104python)
+- [Exercício 104](../../104/python)
 - **Exercício 105**
-- [Exercício 106](../../106python)
+- [Exercício 106](../../106/python)
 - [Lista de Exercicios](../../)
 

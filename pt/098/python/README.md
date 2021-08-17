@@ -20,8 +20,8 @@ c) uma contagem personalizada
 
 ## Próximo
 
-- [Exercício 097](../../097python)
+- [Exercício 097](../../097/python)
 - **Exercício 098**
-- [Exercício 099](../../099python)
+- [Exercício 099](../../099/python)
 - [Lista de Exercicios](../../)
 

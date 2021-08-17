@@ -20,8 +20,8 @@ D) Uma lista de pessoas com idade acima da média.
 
 ## Próximo
 
-- [Exercício 093](../../093python)
+- [Exercício 093](../../093/python)
 - **Exercício 094**
-- [Exercício 095](../../095python)
+- [Exercício 095](../../095/python)
 - [Lista de Exercicios](../../)
 

@@ -16,8 +16,8 @@
 
 ## Próximo
 
-- [Exercício 046](../../046python)
+- [Exercício 046](../../046/python)
 - **Exercício 047**
-- [Exercício 048](../../048python)
+- [Exercício 048](../../048/python)
 - [Lista de Exercicios](../../)
 

@@ -19,8 +19,8 @@ C) Se o valor 5 foi digitado e está ou não na lista.
 
 ## Próximo
 
-- [Exercício 080](../../080python)
+- [Exercício 080](../../080/python)
 - **Exercício 081**
-- [Exercício 082](../../082python)
+- [Exercício 082](../../082/python)
 - [Lista de Exercicios](../../)
 

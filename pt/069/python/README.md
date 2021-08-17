@@ -19,8 +19,8 @@ C) quantas mulheres tem menos de 20 anos.
 
 ## Próximo
 
-- [Exercício 068](../../068python)
+- [Exercício 068](../../068/python)
 - **Exercício 069**
-- [Exercício 070](../../070python)
+- [Exercício 070](../../070/python)
 - [Lista de Exercicios](../../)
 

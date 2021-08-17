@@ -18,8 +18,8 @@ Ex: 5! = 5 x 4 x 3 x 2 x 1 = 120
 
 ## Próximo
 
-- [Exercício 059](../../059python)
+- [Exercício 059](../../059/python)
 - **Exercício 060**
-- [Exercício 061](../../061python)
+- [Exercício 061](../../061/python)
 - [Lista de Exercicios](../../)
 

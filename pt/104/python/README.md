@@ -18,8 +18,8 @@ Ex: n = leiaInt('Digite um n: ')
 
 ## Próximo
 
-- [Exercício 103](../../103python)
+- [Exercício 103](../../103/python)
 - **Exercício 104**
-- [Exercício 105](../../105python)
+- [Exercício 105](../../105/python)
 - [Lista de Exercicios](../../)
 
