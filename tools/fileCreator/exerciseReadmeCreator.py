@@ -37,8 +37,10 @@ def sectionNext(string, language=None):
     number = data[ index ]["number"]
     temp += f'- **{string} {number}**\n'
 
-    number = data[ index + 1 ]["number"]
-    temp += f'- [{string} {number}]({parentDir + number + subDir})\n'
+    if index < len(data)-1:
+        number = data[ index + 1 ]["number"]
+        temp += f'- [{string} {number}]({parentDir + number + subDir})\n'
+
     temp += f'- [Lista de Exercicios]({parentDir})\n\n'
     return temp
 
