@@ -1,16 +1,16 @@
-# Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo.
+# FaÃ§a um programa que leia um Ã¢ngulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse Ã¢ngulo.
 
-## Exemplos
+## Exemplo
 
-Nenhum exemplo ainda
+- [python](python)
 
-## Próximo
+## PrÃ³ximo
 
-- [Exercício 017](../017)
-- **Exercício 018**
-- [Exercício 019](../019)
-- [Lista de Exercícios](..)
+- [ExercÃ­cio 017](../017)
+- **ExercÃ­cio 018**
+- [ExercÃ­cio 019](../019)
+- [Lista de Exercicios](../)
 
-## Video do [@gustavoguanabara](https://github.com/gustavoguanabara) desse exercício
+## Video do exercÃ­cio
 
-[![Video do exercício](https://img.youtube.com/vi/9GvsphwW26k/maxresdefault.jpg)](https://youtu.be/9GvsphwW26k)
+[![Video do exercÃ­cio](https://img.youtube.com/vi/9GvsphwW26k/maxresdefault.jpg)](https://youtu.be/9GvsphwW26k)
