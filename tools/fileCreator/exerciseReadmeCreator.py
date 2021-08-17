@@ -28,7 +28,7 @@ def sectionNext(string, language=None):
     temp = ''
     if language:
         parentDir += '../'
-        subDir = language
+        subDir = '/' + language
 
     if index > 0:
         number = data[ index-1 ]["number"]
