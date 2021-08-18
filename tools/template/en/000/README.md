@@ -6,9 +6,10 @@
 
 ## Next
 
-- [Exercise NUMBER_SUB_ONE (../NUMBER_SUB_ONE)
+- [Exercise NUMBER_SUB_ONE](../NUMBER_SUB_ONE)
 - **Exercise NUMBER**
-- [Exercise NUMBER_PLUS_ONE (../NUMBER_PLUS_ONE)
+- [Exercise NUMBER_PLUS_ONE](../NUMBER_PLUS_ONE)
+- [List of exercises](../)
 
 ## Video of the exercise
 

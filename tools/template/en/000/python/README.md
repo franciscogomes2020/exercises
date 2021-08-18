@@ -16,6 +16,7 @@
 
 ## Next
 
-- [Exercise NUMBER_SUB_ONE (../NUMBER_SUB_ONE)
-- **Exercise NUMBER**
-- [Exercise NUMBER_PLUS_ONE (../NUMBER_PLUS_ONE)
+- [Example in python NUMBER_SUB_ONE](../../NUMBER_SUB_ONE/python)
+- **Example in python NUMBER**
+- [Example in python NUMBER_PLUS_ONE](../../NUMBER_PLUS_ONE/python)
+- [List of exercises](../..)
