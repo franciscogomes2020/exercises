@@ -1,0 +1,1 @@
+# Create a program that will generate five random numbers and put them into a tuple. After that, show the list of generated numbers and also indicate the smallest and largest values that are in the tuple.

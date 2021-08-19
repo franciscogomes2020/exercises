@@ -1,24 +1,22 @@
-# Develop a program that reads a student's two grades, calculates and display its average.
+# Develop a program that reads a student's two grades, calculates and displays their average.
 
 ## Example in Python
 
-### Code
+### code
 
 ``` python
-grade1 = float( input(' type grade 1: ') )
-grade2 = float( input(' type grade 2: ') )
-
-average = ( grade1 + grade2 ) / 2
-
-print(' average: {}'.format(average) )
-
+[put your code here]
 ```
 
-### Output
+### output
 
 ```
- type grade 1: 10
- type grade 2: 8
- average: 9.0
-
+[put the output of your code here]
 ```
+
+## Next
+
+- [Example in python 006](../../006/python)
+- **Example in python 007**
+- [Example in python 008](../../008/python)
+- [List of exercises](../..)

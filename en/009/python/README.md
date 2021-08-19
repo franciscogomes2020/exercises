@@ -1,30 +1,22 @@
-# Make a program that reads any integer and displays its times tables on the screen.
+# Make a program that reads any Integer and displays your times tables on the screen.
 
 ## Example in Python
 
-### Code
+### code
 
 ``` python
-number = int( input(' type a integer: ') )
-
-for i in range(11):
-    print(' {:>2} x {} = {}'.format(i, number,i*number) )
+[put your code here]
 ```
 
-### Output
-
+### output
 
 ```
- type a integer: 5
-  0 x 5 = 0
-  1 x 5 = 5
-  2 x 5 = 10
-  3 x 5 = 15
-  4 x 5 = 20
-  5 x 5 = 25
-  6 x 5 = 30
-  7 x 5 = 35
-  8 x 5 = 40
-  9 x 5 = 45
- 10 x 5 = 50
+[put the output of your code here]
 ```
+
+## Next
+
+- [Example in python 008](../../008/python)
+- **Example in python 009**
+- [Example in python 010](../../010/python)
+- [List of exercises](../..)

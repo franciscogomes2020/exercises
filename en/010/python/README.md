@@ -1,17 +1,22 @@
-# Create a program that reads how much money a person has in their wallet and displays how much Reais they can buy. Consider U$1.00 = R$3.27.
+# Create a program that reads how much money a person has in their wallet and shows how many reals they can buy. Consider U$1.00 = R$3.27.
 
 ## Example in Python
-### Code
+
+### code
 
 ``` python
-dollar = float( input(' How much money do you have? ') )
-usdbrl = 3.27
-print(' you can buy {:.2f} Reals'.format(dollar * usdbrl ) )
+[put your code here]
 ```
 
-### Output
+### output
 
 ```
- How much money do you have? 2.00
- you can buy 6.54 Reals
+[put the output of your code here]
 ```
+
+## Next
+
+- [Example in python 009](../../009/python)
+- **Example in python 010**
+- [Example in python 011](../../011/python)
+- [List of exercises](../..)

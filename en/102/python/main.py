@@ -1,0 +1,1 @@
+# Create a program that has a factorial() function that receives two parameters: the first one indicating the number to calculate and the other called show, which will be a logical value (optional) indicating whether or not the factorial calculation process will be shown on the screen .

@@ -1,0 +1,1 @@
+# Write a program that has a list called numbers and two functions called draw() and PaiSum(). The first function will draw 5 numbers and place them into the list and the second function will show the sum of all the even values drawn by the previous function.

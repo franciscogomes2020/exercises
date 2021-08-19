@@ -1,27 +1,22 @@
-# Create an algorithm that reads a number and displays its double, triple and square root.
+# Create an algorithm that reads a number and shows its double, triple and square root.
 
-## example in python
-
+## Example in Python
 
 ### code
 
 ``` python
-number = int ( input(' type a number: ') )
-double = number * 2
-triple = number * 3
-square = number ** (1/2)
+[put your code here]
+```
 
-print( ' number: {}\n double: {}\n triple: {}\n square: {}'.format(number, double, triple, square) )
+### output
 
-``` 
+```
+[put the output of your code here]
+```
 
-### Output
+## Next
 
-``` 
- type a number: 25
- number: 25
- double: 50
- triple: 75
- square: 5.0
-
-``` 
+- [Example in python 005](../../005/python)
+- **Example in python 006**
+- [Example in python 007](../../007/python)
+- [List of exercises](../..)

@@ -1,0 +1,1 @@
+# Create a program that reads whole numbers from the keyboard. The program will only stop when the user enters the value 999, which is the stopping condition. At the end, show how many numbers were typed and what was the sum between them (disregarding the flag).

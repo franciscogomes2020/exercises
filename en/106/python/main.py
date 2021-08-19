@@ -1,0 +1,1 @@
+# Make a mini-system that uses Python's Interactive Help. The user will type the command and the manual will appear. When the user enters the word 'END', the program will terminate. Important: use colors.

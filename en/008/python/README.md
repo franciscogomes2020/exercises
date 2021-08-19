@@ -1,24 +1,22 @@
-# Write a program that reads a value in meters and displays it coverted to centimeters and milimeters
+# Write a program that reads a value in meters and displays it converted to centimeters and millimeters.
 
 ## Example in Python
 
-### Code
+### code
 
 ``` python
-meter = float( input(' type a value in meters: ').replace(',','.') )
-centimeter = meter * 100
-milimeter  = meter * 1000
-
-print(' centimeters: {}\n milimeters: {}'.format(
-    centimeter - int(centimeter) == 0 and int(centimeter) or centimeter,
-    milimeter - int(milimeter) == 0   and int(milimeter)  or milimeter
-    ) )
+[put your code here]
 ```
 
-### Output
+### output
 
 ```
- type a value in meters: 1,25
- centimeters: 125
- milimeters: 1250
+[put the output of your code here]
 ```
+
+## Next
+
+- [Example in python 007](../../007/python)
+- **Example in python 008**
+- [Example in python 009](../../009/python)
+- [List of exercises](../..)

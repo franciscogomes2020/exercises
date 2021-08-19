@@ -1,25 +1,22 @@
-# Write a program that reads the width and height of a wall in meters. Calculate its area and the amount of paint needed to paint it. Knowing that each liter of paint paints an area of 2m².
+# Make a program that reads the width and height of a wall in meters, calculates its area and the amount of paint needed to paint it, knowing that each liter of paint paints an area of 2 square meters.
 
 ## Example in Python
 
-### Code
+### code
 
 ``` python
-width = float( input(' What is the width in meters of the wall? ') )
-height = float( input(' What is the height in meters of the wall? ') )
-
-area = width * height
-liters = area / 2
-
-print(' You will need {} liters of paint to paint that wall '.format(liters) )
-
+[put your code here]
 ```
 
-### Output
+### output
 
 ```
- What is the width in meters of the wall? 5.45
- What is the height in meters of the wall? 2.80
- You will need 7.63 liters of paint to paint that wall
-
+[put the output of your code here]
 ```
+
+## Next
+
+- [Example in python 010](../../010/python)
+- **Example in python 011**
+- [Example in python 012](../../012/python)
+- [List of exercises](../..)

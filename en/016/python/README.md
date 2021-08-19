@@ -1,27 +1,22 @@
-# Create a program that reads any Real number from the keyboard and displays its Integer portion on the screen.
+# Create a program that reads any real number from the keyboard and displays its Iteger portion on the screen.
 
 ## Example in Python
 
-### Code
+### code
 
 ``` python
-from math import floor
-
-number = float( input( ' type a real number ' ) )
-number = floor( number )
-print(' the integer part of the typed number is {}'.format( number ) )
-```
-### Output
-
-```
- type a real number 7.8
- the integer part of the typed number is 7
-
+[put your code here]
 ```
 
-## See the next
+### output
 
-- [Python example of exercise 015](../../015/python)
-- **Python example of exercise 016**
-- [Python example of exercise 017](../../017/python)
-- [List of Exercises](../..)
+```
+[put the output of your code here]
+```
+
+## Next
+
+- [Example in python 015](../../015/python)
+- **Example in python 016**
+- [Example in python 017](../../017/python)
+- [List of exercises](../..)

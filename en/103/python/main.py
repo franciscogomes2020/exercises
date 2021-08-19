@@ -1,0 +1,1 @@
+# Make a program that has a function called token(), which takes two optional parameters: a player's name and how many goals he scored. The program must be able to show the player's record, even if some data has not been entered correctly.

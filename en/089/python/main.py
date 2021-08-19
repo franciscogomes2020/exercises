@@ -1,0 +1,1 @@
+# Create a program that reads names and two grades from multiple students and saves them all in a composite list. At the end, show a report containing the average of each one and allow the user to show the grades of each individual student.

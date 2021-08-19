@@ -1,20 +1,22 @@
-# Make a program that reads an integer and displays its successor and predecessor on the screen.
+# Make a program that reads an Integer and displays its successor and predecessor on the screen.
 
-## example in python
+## Example in Python
 
 ### code
 
 ``` python
-number = int( input(' type a integer: ') )
-print(' successor: {}\n predecessor: {}'.format(number+1, number-1) )
+[put your code here]
+```
 
-``` 
+### output
 
-### Output
+```
+[put the output of your code here]
+```
 
-``` 
- type a integer: 5
- successor: 6
- predecessor: 4
+## Next
 
-``` 
+- [Example in python 004](../../004/python)
+- **Example in python 005**
+- [Example in python 006](../../006/python)
+- [List of exercises](../..)

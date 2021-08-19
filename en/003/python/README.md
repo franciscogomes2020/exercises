@@ -1,20 +1,22 @@
-# Create a program that reads two numbers and displays the sum between them
+# Create a program that reads two numbers and displays the sum between them.
 
 ## Example in Python
 
-### Code
+### code
 
 ``` python
-number1 = int(input('type a number '))
-number2 = int(input('type another number '))
-sum = number1 + number2
-
-print('The sum between {} and {} is {}'.format(number1,number2,sum))
+[put your code here]
 ```
-### Output
+
+### output
 
 ```
- type a number 3
- type another number 4
- The sum between 3 and 4 is 7
+[put the output of your code here]
 ```
+
+## Next
+
+- [Example in python 002](../../002/python)
+- **Example in python 003**
+- [Example in python 004](../../004/python)
+- [List of exercises](../..)

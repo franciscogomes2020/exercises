@@ -1,17 +1,22 @@
-# Make a program that reads a person's name add displays a welcome message
+# Make a program that reads a person's name and displays a welcome message.
 
 ## Example in Python
 
-### Code
+### code
 
 ``` python
-name = input('What is your name? ')
-print('Hello {}, nice to meet you!'.format(name))
+[put your code here]
 ```
 
-### Output
+### output
 
 ```
- What is your name? francisco
- Hello francisco, nice to meet you
+[put the output of your code here]
 ```
+
+## Next
+
+- [Example in python 001](../../001/python)
+- **Example in python 002**
+- [Example in python 003](../../003/python)
+- [List of exercises](../..)

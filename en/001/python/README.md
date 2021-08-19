@@ -1,14 +1,21 @@
-# Create a program that writes "Hello World!" on the screen.
+# Create a program that writes 'Hello World!' on the screen.
 
 ## Example in Python
 
-### Code
+### code
 
 ``` python
-print('Hello World!')
+[put your code here]
 ```
-### Output
+
+### output
 
 ```
- Hello World!
+[put the output of your code here]
 ```
+
+## Next
+
+- **Example in python 001**
+- [Example in python 002](../../002/python)
+- [List of exercises](../..)
