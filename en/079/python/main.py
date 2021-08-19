@@ -1,0 +1,1 @@
+# Create a program where the user can type several numerical values and register them in a list. If the number already exists inside, it will not be added. At the end, all the unique values entered will be displayed in ascending order.

@@ -1,0 +1,1 @@
+# Create a program that reads multiple integers from the keyboard. At the end of the run, show the average between all values and which were the highest and lowest values read. The program should ask the user whether or not he wants to continue entering values.

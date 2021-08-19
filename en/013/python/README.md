@@ -1,17 +1,22 @@
-# Make an algorithm that reads a employee's salary and displays their new salary with 15% increase.
+# Make an algorithm that reads an employee's salary and shows their new salary, with a 15% increase.
 
 ## Example in Python
 
-### Code
+### code
 
 ``` python
-salary = float( input(' type the salary: ') )
-print(' that salary with 15% increased is {:.2f}'.format(salary * 1.15) )
+[put your code here]
 ```
-### Output
+
+### output
 
 ```
- type the salary: 100
- that salary with 15% increased is 115.00
-
+[put the output of your code here]
 ```
+
+## Next
+
+- [Example in python 012](../../012/python)
+- **Example in python 013**
+- [Example in python 014](../../014/python)
+- [List of exercises](../..)

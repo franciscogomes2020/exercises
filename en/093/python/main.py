@@ -1,0 +1,1 @@
+# Create a program that manages a football player's performance. The program will read the player's name and how many games he has played. Then it will read the number of goals scored in each match. In the end, all this will be stored in a dictionary, including the total goals scored during the championship.

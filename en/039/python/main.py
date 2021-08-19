@@ -1,0 +1,1 @@
+# Make a program that reads a young person's year of birth and tells them, based on their age, whether they are still enlisting, whether it is the exact time to enlist, or whether it is past enlistment time. Your program should also show the time that is missing or past the deadline.
