@@ -428,12 +428,12 @@ do [curso em video](https://www.cursoemvideo.com) do professor [gustavo guanabar
 		<a href='114'>Crie um código em Python que teste se o site pudim está acessível pelo computador usado.</a>
 	</li>
 	<li>
-		<a href='115'>Vamos criar um menu em Python, usando modularização.</a>
+		<a href='115a'>Vamos criar um menu em Python, usando modularização.</a>
 	</li>
 	<li>
-		<a href='116'>Vamos ver como fazer acesso a arquivos usando o Python.</a>
+		<a href='115b'>Vamos ver como fazer acesso a arquivos usando o Python.</a>
 	</li>
 	<li>
-		<a href='117'>Vamos finalizar o projeto de acesso a arquivos em Python.</a>
+		<a href='115c'>Vamos finalizar o projeto de acesso a arquivos em Python.</a>
 	</li>
 </ol>
