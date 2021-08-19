@@ -1,13 +1,6 @@
 # Programming Exercises
 
-This is a list of exercises I took for the [playlist of python exercises](https://youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-)
-from [curso em video](https://www.cursoemvideo.com) by professor [gustavo guanabara](https://github.com/gustavoguanabara)
-
-## List of Exercises
-
-# Programming Exercises
-
-This is a list of exercises I took for the [playlist of python exercises](https://youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-)
+This is a list of exercises I took from the [playlist of python exercises](https://youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-)
 from [curso em video](https://www.cursoemvideo.com) by professor [gustavo guanabara](https://github.com/gustavoguanabara)
 
 ## List of Exercises
