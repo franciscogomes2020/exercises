@@ -434,12 +434,12 @@ from [curso em video](https://www.cursoemvideo.com) by professor [gustavo guanab
 		<a href='114'>Create Python code that tests whether the pudding site is accessible by the computer being used.</a>
 	</li>
 	<li>
-		<a href='115'>Let's create a menu in Python, using modularization.</a>
+		<a href='115a'>Let's create a menu in Python, using modularization.</a>
 	</li>
 	<li>
-		<a href='116'>Let's see how to access files using Python.</a>
+		<a href='115b'>Let's see how to access files using Python.</a>
 	</li>
 	<li>
-		<a href='117'>Let's finish the file access project in Python.</a>
+		<a href='115c'>Let's finish the file access project in Python.</a>
 	</li>
 </ol>
